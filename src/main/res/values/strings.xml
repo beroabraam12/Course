@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FC Zatona</string>
+    <string name="pass_hint">Password....</string>
+    <string name="Email_hint">Your Email.....</string>
+    <string name="login_logo_desc">Logo Login Page</string>
+    <string name="btnLogin">Login to account</string>
+    <string name="login_reg_btn_text">Need a new Account?</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_setting_text">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="reg_btn_text">Create new Account</string>
+    <string name="reg_login_text">Already have an Account?</string>
+    <string name="reg_password">Password....</string>
+    <string name="reg_cof_pass">Confirm Password....</string>
+    <string name="account_setup">Account Setup</string>
+    <string name="setup_name_hint">Your Name....</string>
+    <string name="setup_btn_name_text">Save Account Settings</string>
+    <string name="post_desc_hint">Add Description ....</string>
+    <string name="new_post_btn_hint">Post Blog</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="newsFragment">News</string>
+    <string name="matchesDateFragment">Matches Date</string>
+    <string name="clubTournamentsFragment">Club Tournaments</string>
+    <string name="branchesFragment">Branches</string>
+    <string name="playersFragment">Players List</string>
+    <string name="standingFragment">Standing</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="tvPlayerName">Player Name</string>
+    <string name="tvPlayerAge">Age</string>
+    <string name="tvPlayerGoals">Goals</string>
+    <string name="tvPosition">Player Position</string>
+    <string name="tournamentName">Name</string>
+    <string name="cup_num">Cup Numper</string>
+</resources>

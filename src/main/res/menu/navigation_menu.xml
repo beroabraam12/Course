@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group
+        android:checkableBehavior="single"
+        android:enabled="true">
+
+        <item
+            android:id="@+id/Nav_Home"
+            android:checked="true"
+            android:icon="@drawable/ic_house"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/Nav_MatchesDate"
+            android:icon="@drawable/ic_calendar"
+            android:title="Matches Date" />
+
+
+        <item
+            android:id="@+id/Nav_Players"
+            android:icon="@drawable/ic_player"
+            android:title="Players" />
+
+        <item
+            android:id="@+id/Nav_ClubTournaments"
+            android:icon="@drawable/ic_trophy"
+            android:title="Club Tournaments" />
+
+        <item
+            android:id="@+id/Nav_Branches"
+            android:icon="@drawable/ic_map"
+            android:title="Our Branches " />
+
+
+    </group>
+
+
+    <item
+        android:id="@+id/Nav_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="Logout" />
+
+</menu>

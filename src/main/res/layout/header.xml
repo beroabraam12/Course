@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="170dp"
+    android:background="#1177d9"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingLeft="15dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="20dp"
+        android:paddingTop="10dp"
+        android:src="@drawable/tomas" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Thomas Shelby"
+        android:textColor="#ffffff"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Thomashelby1159@gmail.com"
+        android:textColor="#ffffff"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+</LinearLayout>

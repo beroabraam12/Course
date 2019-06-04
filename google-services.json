@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "201987773454",
+    "firebase_url": "https://fc-zatona.firebaseio.com",
+    "project_id": "fc-zatona",
+    "storage_bucket": "fc-zatona.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201987773454:android:20f234d4f63f4d23",
+        "android_client_info": {
+          "package_name": "com.example.source.fczatona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201987773454-4ku2g2jb18ofm3nebbc4c9hi6tnofn97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.source.fczatona",
+            "certificate_hash": "f24b9749ccd9e7ab9996030822b4f8f702e7cdb9"
+          }
+        },
+        {
+          "client_id": "201987773454-9d3rq6endcgje5q9t9kttql46q7e4ubl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.source.fczatona",
+            "certificate_hash": "d580ba4d4ada97047545f3896d6f928fd61a634f"
+          }
+        },
+        {
+          "client_id": "201987773454-9to1qibdjg77k5erf1jsnbi9l2og12eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHKSSlEM_2pPo4cUfGA6sKHmaUWTp8xQ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201987773454-9to1qibdjg77k5erf1jsnbi9l2og12eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
